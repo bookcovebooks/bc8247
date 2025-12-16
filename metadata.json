@@ -4,7 +4,7 @@
     {
       "name": "Curwood, James Oliver",
       "role": "author"
-    }
+    },
     {
       "name": "Ralph, Lester",
       "role": "illustrator"
@@ -18,7 +18,6 @@
   "notes": "",
   "subjects": ["arctic", "adventure", "relationships"],
   "cover_image": "cover.jpg",
-  "source_file": "bc8247.xml"
 }
 
 
