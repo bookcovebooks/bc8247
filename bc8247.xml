@@ -65,33 +65,33 @@
 <l>CONTENTS</l>
 </lg>
 <list>
-<item><ref target="CHAPTER_I">CHAPTER I</ref></item>
-<item><ref target="CHAPTER_II">CHAPTER II</ref></item>
-<item><ref target="CHAPTER_III">CHAPTER III</ref></item>
-<item><ref target="CHAPTER_IV">CHAPTER IV</ref></item>
-<item><ref target="CHAPTER_V">CHAPTER V</ref></item>
-<item><ref target="CHAPTER_VI">CHAPTER VI</ref></item>
-<item><ref target="CHAPTER_VII">CHAPTER VII</ref></item>
-<item><ref target="CHAPTER_VIII">CHAPTER VIII</ref></item>
-<item><ref target="CHAPTER_IX">CHAPTER IX</ref></item>
-<item><ref target="CHAPTER_X">CHAPTER X</ref></item>
-<item><ref target="CHAPTER_XI">CHAPTER XI</ref></item>
-<item><ref target="CHAPTER_XII">CHAPTER XII</ref></item>
-<item><ref target="CHAPTER_XIII">CHAPTER XIII</ref></item>
-<item><ref target="CHAPTER_XIV">CHAPTER XIV</ref></item>
-<item><ref target="CHAPTER_XV">CHAPTER XV</ref></item>
-<item><ref target="CHAPTER_XVI">CHAPTER XVI</ref></item>
-<item><ref target="CHAPTER_XVII">CHAPTER XVII</ref></item>
-<item><ref target="CHAPTER_XVIII">CHAPTER XVIII</ref></item>
-<item><ref target="CHAPTER_XIX">CHAPTER XIX</ref></item>
-<item><ref target="CHAPTER_XX">CHAPTER XX</ref></item>
-<item><ref target="CHAPTER_XXI">CHAPTER XXI</ref></item>
-<item><ref target="CHAPTER_XXII">CHAPTER XXII</ref></item>
-<item><ref target="CHAPTER_XXIII">CHAPTER XXIII</ref></item>
-<item><ref target="CHAPTER_XXIV">CHAPTER XXIV</ref></item>
-<item><ref target="CHAPTER_XXV">CHAPTER XXV</ref></item>
-<item><ref target="CHAPTER_XXVI">CHAPTER XXVI</ref></item>
-<item><ref target="CHAPTER_XXVII">CHAPTER XXVII</ref></item>
+<item><ref target="chI">CHAPTER I</ref></item>
+<item><ref target="chII">CHAPTER II</ref></item>
+<item><ref target="chIII">CHAPTER III</ref></item>
+<item><ref target="chIV">CHAPTER IV</ref></item>
+<item><ref target="chV">CHAPTER V</ref></item>
+<item><ref target="chVI">CHAPTER VI</ref></item>
+<item><ref target="chVII">CHAPTER VII</ref></item>
+<item><ref target="chVIII">CHAPTER VIII</ref></item>
+<item><ref target="chIX">CHAPTER IX</ref></item>
+<item><ref target="chX">CHAPTER X</ref></item>
+<item><ref target="chXI">CHAPTER XI</ref></item>
+<item><ref target="chXII">CHAPTER XII</ref></item>
+<item><ref target="chXIII">CHAPTER XIII</ref></item>
+<item><ref target="chXIV">CHAPTER XIV</ref></item>
+<item><ref target="chXV">CHAPTER XV</ref></item>
+<item><ref target="chXVI">CHAPTER XVI</ref></item>
+<item><ref target="chXVII">CHAPTER XVII</ref></item>
+<item><ref target="chXVIII">CHAPTER XVIII</ref></item>
+<item><ref target="chXIX">CHAPTER XIX</ref></item>
+<item><ref target="chXX">CHAPTER XX</ref></item>
+<item><ref target="chXXI">CHAPTER XXI</ref></item>
+<item><ref target="chXXII">CHAPTER XXII</ref></item>
+<item><ref target="chXXIII">CHAPTER XXIII</ref></item>
+<item><ref target="chXXIV">CHAPTER XXIV</ref></item>
+<item><ref target="chXXV">CHAPTER XXV</ref></item>
+<item><ref target="chXXVI">CHAPTER XXVI</ref></item>
+<item><ref target="chXXVII">CHAPTER XXVII</ref></item>
 </list>
 </div>
 
@@ -8747,3 +8747,4 @@ caught the sleepy whisper of his name.</p>
 
 </text>
 </TEI>
+
