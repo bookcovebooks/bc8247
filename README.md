@@ -22,6 +22,10 @@ Michael O'Doone, and truths buried deeper than snow.
 A story of redemption and wilderness, where broken souls seek healing in
 the last untamed places of the earth.
 
+## Keywords
+
+snowbound train, winter survival fiction, Arctic blizzard, wilderness drama, psychological fiction, betrayal and heartbreak, spiritual redemption, literary adventure, stormy night atmosphere, classic romance tragedy
+    
 ## About This Repository
 
 This repository contains source files to generate this book in several
